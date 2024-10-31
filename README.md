@@ -1,4 +1,4 @@
-# Atividade PROJETO BIMESTRAL
+# React Auth
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
@@ -45,10 +45,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/Gustavo-Cruz-Pinheiro/atividade-projeto-bimestral.git
+$ git clone https://github.com/Gustavo-Cruz-Pinheiro/react-auth.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd atividade-projeto-bimestral
+$ cd react-auth
 
 # Instale as dependências 
 $ npm i
